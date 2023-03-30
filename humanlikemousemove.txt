@@ -1,0 +1,1 @@
+the code is using easeInOutQuad to simulate human-like movement of the mouse with the intervals of 5 seconds - feel free to adjust it to you needs - just a simple code which prevent skype and teams from going into away mode
